@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently a student at ALX (software developer)<br>Working on Android development with GDSC Machakos<br>Student at Machakos university pursuing Bsc Computer Science<br>CERTIFIED google IT specialist<br>Currently taking HCIA datacom with Huawei.
+Currently a student at ALX (software developer)<br>Student at Machakos university pursuing Bsc Computer Science<br>CERTIFIED google IT specialist<br>Currently taking HCIA datacom with Huawei.
 
 
 ## 🌐 Socials:
